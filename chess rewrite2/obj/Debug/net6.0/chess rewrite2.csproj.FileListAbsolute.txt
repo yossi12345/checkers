@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\bin\Debug\net6.0\chess rewrite2.exe
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\bin\Debug\net6.0\chess rewrite2.deps.json
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\bin\Debug\net6.0\chess rewrite2.runtimeconfig.json
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\bin\Debug\net6.0\chess rewrite2.dll
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\bin\Debug\net6.0\chess rewrite2.pdb
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.dll
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\refint\chess rewrite2.dll
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.pdb
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\chess rewrite2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\tic toc\chess rewrite2\chess rewrite2\obj\Debug\net6.0\ref\chess rewrite2.dll
